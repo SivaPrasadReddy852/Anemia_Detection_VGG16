@@ -191,3 +191,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 - Detects anemia using deep learning
 - Uses VGG16 architecture
 - Simple and easy to use interface
+## Technologies Used
+- Python
+- TensorFlow / gitKeras
+- Deep Learning
