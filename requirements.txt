@@ -11,3 +11,4 @@ Pillow>=10.0.0
 gdown>=4.7.0
 requests>=2.31.0
 pathlib
+numpy
