@@ -22,7 +22,7 @@ st.set_page_config(
     page_icon="🩺",
     layout="wide"
 )
-
+# Update: Added comments for better understanding
 # Constants matching your training setup
 IMG_HEIGHT = 224
 IMG_WIDTH = 224
