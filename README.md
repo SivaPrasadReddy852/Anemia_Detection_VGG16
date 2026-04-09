@@ -185,5 +185,5 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 - [ ] Real-time camera integration
 
 ---
-
+## Update 2Improved documentation and added explanation of the model.
 **⭐ If you found this project helpful, please give it a star!**
