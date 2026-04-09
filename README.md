@@ -206,3 +206,8 @@ This project demonstrates how deep learning can be used for healthcare applicati
 - Upload an image
 - Model processes the image
 - Displays whether the person is anemic or not
+
+## Future Improvements
+- Improve model accuracy
+- Add more dataset
+- Deploy as web application
