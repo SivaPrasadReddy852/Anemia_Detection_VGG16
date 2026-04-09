@@ -195,3 +195,5 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 - Python
 - TensorFlow / gitKeras
 - Deep Learning
+## Conclusion
+This project demonstrates how deep learning can be used for healthcare applications like anemia detection.
