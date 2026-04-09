@@ -197,3 +197,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 - Deep Learning
 ## Conclusion
 This project demonstrates how deep learning can be used for healthcare applications like anemia detection.
+## Installation
+1. Clone the repository
+2. Install required packages using requirements.txt
+3. Run the application using Python
