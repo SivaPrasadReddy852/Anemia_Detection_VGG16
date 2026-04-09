@@ -15,6 +15,7 @@ import gdown
 import logging
 import sys
 
+# Update: Improved readability of the code
 # Configure Streamlit page
 st.set_page_config(
     page_title="Anemia Detection from Conjunctiva Images",
