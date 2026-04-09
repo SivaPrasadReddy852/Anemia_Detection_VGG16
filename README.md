@@ -201,3 +201,8 @@ This project demonstrates how deep learning can be used for healthcare applicati
 1. Clone the repository
 2. Install required packages using requirements.txt
 3. Run the application using Python
+
+## Usage
+- Upload an image
+- Model processes the image
+- Displays whether the person is anemic or not
