@@ -1,0 +1,13 @@
+# Ignore model files
+*.keras
+*.h5
+*.pt
+*.pth
+
+# Ignore datasets
+dataset/
+data/
+
+# Ignore system files
+__pycache__/
+*.pyc
