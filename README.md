@@ -187,3 +187,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ---
 ## Update 2Improved documentation and added explanation of the model.
 **⭐ If you found this project helpful, please give it a star!**
+## Features
+- Detects anemia using deep learning
+- Uses VGG16 architecture
+- Simple and easy to use interface
