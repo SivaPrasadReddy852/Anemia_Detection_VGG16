@@ -211,3 +211,6 @@ This project demonstrates how deep learning can be used for healthcare applicati
 - Improve model accuracy
 - Add more dataset
 - Deploy as web application
+
+## Dataset
+The dataset consists of images used to train and test the anemia detection model.
