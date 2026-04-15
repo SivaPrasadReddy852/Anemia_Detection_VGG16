@@ -4,7 +4,7 @@ A deep learning application that detects anemia from conjunctiva (inner eyelid) 
 
 ## 🚀 Live Demo
 
-**[Try the Live App Here](https://sivaprasad.streamlit.app/)** 
+**[Try the Live App Here](https://anemiadetectionproject.streamlit.app/)** 
 
 ## 📊 Model Performance
 
